@@ -122,26 +122,26 @@ Class Diagram : -
 
 Activity Diagram :-
 
-![image](Activity diagram.png)
+![image](‪C:\Users\RITESH\Desktop\image\Activity diagram.png)
 
 
 E-R Diagram :-
 
-![image](E-R diagram.png)
+![image](C:\Users\RITESH\Desktop\image\E-R diagram.png)
 
 
 ScreenShots :-
 
 Home Page
 
-![image](Home page.png)
+![image](C:\Users\RITESH\Desktop\image\Home page.png)
 
 
 Login Page 
 
-![image](Login page.png)
+![image](C:\Users\RITESH\Desktop\image\Login page.png)
 
 
 Registration page 
 
-![image](Registration page.png)
+![image](C:\Users\RITESH\Desktop\image\Registration page.png)
