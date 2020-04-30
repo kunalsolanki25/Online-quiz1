@@ -117,31 +117,31 @@ Data Flow Diagram (DFD) shows the flow of the data in to the system and processe
 
 Class Diagram : - 
 
-![](image\class diagram.png)
+![](image/class diagram.png)
 
 
 Activity Diagram :-
 
-![](‪image\Activity diagram.png)
+![](‪image/Activity diagram.png)
 
 
 E-R Diagram :-
 
-![](image\E-R diagram.png)
+![](image/E-R diagram.png)
 
 
 ScreenShots :-
 
 Home Page
 
-![](image\Home page.png)
+![](image/Home page.png)
 
 
 Login Page 
 
-![](image\Login page.png)
+![](image/Login page.png)
 
 
 Registration page 
 
-![](image\Registration page.png)
+![](image/Registration page.png)
