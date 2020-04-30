@@ -117,31 +117,31 @@ Data Flow Diagram (DFD) shows the flow of the data in to the system and processe
 
 Class Diagram : - 
 
-![image](‪C:\Users\RITESH\Desktop\image\class diagram.png)
+![](image\class diagram.png)
 
 
 Activity Diagram :-
 
-![image](‪C:\Users\RITESH\Desktop\image\Activity diagram.png)
+![](‪image\Activity diagram.png)
 
 
 E-R Diagram :-
 
-![image](C:\Users\RITESH\Desktop\image\E-R diagram.png)
+![](image\E-R diagram.png)
 
 
 ScreenShots :-
 
 Home Page
 
-![image](C:\Users\RITESH\Desktop\image\Home page.png)
+![](image\Home page.png)
 
 
 Login Page 
 
-![image](C:\Users\RITESH\Desktop\image\Login page.png)
+![](image\Login page.png)
 
 
 Registration page 
 
-![image](C:\Users\RITESH\Desktop\image\Registration page.png)
+![](image\Registration page.png)
