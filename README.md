@@ -117,7 +117,7 @@ Data Flow Diagram (DFD) shows the flow of the data in to the system and processe
 
 Class Diagram : - 
 
-![image](class diagram.png)
+![image](‪C:\Users\RITESH\Desktop\image\class diagram.png)
 
 
 Activity Diagram :-
