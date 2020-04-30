@@ -139,7 +139,7 @@ Home Page
 
 Login Page 
 
-![]{image/Login page.png}
+![](image/Login page.png)
 
 
 Registration page 
